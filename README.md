@@ -22,19 +22,27 @@ To label issues when they are really urgent (and only then...)
 
 Is the issue a bug or a feature request?
 
-### Green: Use case
+### Green: Use case group
+
+To determine what use case group the ticke belongs to. Only to be used if no 'blue' classification fits.
+
+### Blue: Use Case
 
 To determine what use case the ticke belongs to
 
 ## Milestones
 
-Milestones are used to prioritize the issues. Major milestones start with **MS** and have a due date. There are two other milestones to collect issues which are not yet assigned to a major milestone
+Milestones are used to prioritize the issues. Major milestones contain the month as due date. There are two other milestones to collect issues which are not yet assigned to a major milestone
+
+### SGA2
+
+Every task that is scheduled for SGA2
 
 ### Next Tasks
 
 Important tasks that will be worked on in a milestone soon.
 
-### Other Tasks
+### Minor Tasks
 
 Less important tasks that will be worked on at a later time.
 
