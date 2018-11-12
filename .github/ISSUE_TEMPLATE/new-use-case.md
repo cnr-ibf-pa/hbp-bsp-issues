@@ -1,6 +1,6 @@
 ---
 name: New Use Case
-about: Template to describe a new use case.
+about: To describe a new use case.
 
 ---
 

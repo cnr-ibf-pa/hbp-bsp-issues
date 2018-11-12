@@ -1,6 +1,6 @@
 ---
 name: New Feature
-about: Adding/Changing a feature of an existing use case.
+about: To describe a new or changed feature of an existing use case.
 
 ---
 

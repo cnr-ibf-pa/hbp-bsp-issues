@@ -1,6 +1,6 @@
 ---
 name: Bug or Issue
-about: Template to describe a bug or an usability issue.
+about: To describe a bug or an usability issue.
 
 ---
 
